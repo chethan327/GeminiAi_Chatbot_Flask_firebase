@@ -19,7 +19,7 @@ Gemini AI is an intelligent chatbot platform that leverages Firebase authenticat
 ## Setup and Installation
 
 1. **Clone the repository**:
-[Link Text]().
+https://github.com/chethan327/GeminiAi_Chatbot_Flask_firebase.git.
 2. **Install dependencies**:
 `pip install -r requirements.txt`.
 
@@ -43,7 +43,7 @@ Gemini AI is an intelligent chatbot platform that leverages Firebase authenticat
 2. **AI Models**: Google Generative AI.
 3. **Frontend**: HTML, CSS (in templates and static folders).
 
-**Demo Video is Uploaded  with code**: []
+**Demo Video is Uploaded  with code**: https://github.com/chethan327/GeminiAi_Chatbot_Flask_firebase.git
 
 
 
