@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+transformers
+python-dotenv
+simplejson
+PyJWT
+requests
+gunicorn
+
