@@ -43,7 +43,7 @@ https://github.com/chethan327/GeminiAi_Chatbot_Flask_firebase.git.
 2. **AI Models**: Google Generative AI.
 3. **Frontend**: HTML, CSS (in templates and static folders).
 
-**Demo Video is Uploaded  with code**: https://github.com/chethan327/GeminiAi_Chatbot_Flask_firebase.git
+**Demo Video is Uploaded  with code**: Untitled video - Made with Clipchamp (1).mp4
 
 
 
