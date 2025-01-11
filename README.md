@@ -43,4 +43,7 @@ Gemini AI is an intelligent chatbot platform that leverages Firebase authenticat
 2. **AI Models**: Google Generative AI.
 3. **Frontend**: HTML, CSS (in templates and static folders).
 
+**Demo Video is Uploaded  with code**: []
+
+
 
